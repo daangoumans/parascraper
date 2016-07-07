@@ -7,7 +7,7 @@ from difflib import Differ
 
 #open old
 file_huidig = open("huidig.txt", "r")
-#nieuwe openen
+#open new
 file_old = open("oud.txt", "r")
 
 #get files
